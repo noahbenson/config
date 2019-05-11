@@ -1,0 +1,14 @@
+# No startup message
+startup_message off
+
+# longer than usual scrollback
+defscrollback 4096
+
+# Have a nice hardstatus line...
+hardstatus alwayslastline "%{=}%{R}%n%{-}:%{C}%t%{-} %= [%{G}%0c%{-} %{Y}%d-%M-%Y%{-}] %= %{B}%l"
+
+# Use C-o instead of C-a as the command key
+escape ^oO
+
+# startup screens...
+#screen -t 
