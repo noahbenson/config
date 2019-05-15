@@ -1,7 +1,0 @@
-[user]
-	name = Noah C. Benson
-	email = n@nben.net
-[core]
-	editor = emacs -nw
-[push]
-	default = simple
